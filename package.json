@@ -1,6 +1,6 @@
 {
   "name": "dsh-git-sidebar",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A draggable right-side Git sidebar for DeepSeek Harness Web: follow the active workspace, list changed files, generate commit messages with the current model, and commit/push/pull",
   "type": "module",
   "main": "lib/index.js",
