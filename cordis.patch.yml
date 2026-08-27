@@ -1,0 +1,9 @@
+# dsh-git-sidebar bundle patch: mount the draggable Git sidebar plugin.
+#
+# The host half (package root) runs git commands and registers the
+# package-private RPC handlers; the browser half (dsh.client) is discovered
+# automatically through the package's dsh.client declaration + exports["./client"].
+
+- insert:
+    - id: git-sidebar
+      name: 'dsh-git-sidebar'
