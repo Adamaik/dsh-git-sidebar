@@ -1,5 +1,7 @@
 # dsh-git-sidebar
 
+[English](README.md) | 简体中文
+
 用于 DeepSeek Harness Web 的可拖拽右侧 Git 侧栏。跟随当前工作区、列出变更文件、用你正在使用的模型生成提交信息，并支持提交 / 推送 / 拉取。
 
 ## 功能

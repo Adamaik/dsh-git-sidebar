@@ -1,5 +1,7 @@
 # dsh-git-sidebar
 
+English | [简体中文](README.zh.md)
+
 A draggable right-side Git sidebar for DeepSeek Harness Web. It follows the active workspace, lists changed files, generates commit messages with the model you are already using, and runs commit / push / pull.
 
 ## Features
