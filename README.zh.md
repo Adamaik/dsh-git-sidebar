@@ -13,6 +13,9 @@
 - **AI 生成提交信息**——✨ 按钮基于 `git status` + `git diff HEAD`，调用当前会话默认模型（走 harness `llm` 服务）生成 Conventional Commits 风格的中文提交信息，并填入注释框供你编辑。
 - **操作按钮**——提交（可选包含全部更改）、推送、拉取、刷新。
 
+<img width="444" height="848" alt="image" src="https://github.com/user-attachments/assets/fc97daac-e286-40df-9a5c-c6958da6194f" />
+
+
 ## 安装
 
 ```sh
