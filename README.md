@@ -13,6 +13,9 @@ A draggable right-side Git sidebar for DeepSeek Harness Web. It follows the acti
 - **AI commit message** — ✨ generates a Conventional Commits style message (Chinese subject) from `git status` + `git diff HEAD` using the current session's default model via the harness `llm` service, then fills the message box for editing.
 - **Actions** — commit (optionally with all changes), push, pull, refresh.
 
+<img width="444" height="848" alt="image" src="https://github.com/user-attachments/assets/95686fd4-83a6-4d51-a0f2-4a41dfec769b" />
+
+
 ## Install
 
 ```sh
